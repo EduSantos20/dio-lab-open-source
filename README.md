@@ -13,6 +13,7 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 Aprender o básico sobre contribuição no GitHub.
 
 ## Ferramentas
+[![LinkedIn ](https://t3.ftcdn.net/jpg/03/95/39/16/360_F_395391650_6LfU41V5A4WIhdTis899OaF7wXVgThgP.jpg)](https://www.linkedin.com/in/eduardo-santos-49a1a1172/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 
